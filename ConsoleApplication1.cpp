@@ -1,5 +1,10 @@
-// ConsoleApplication1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+/*  Project Name: Chapter 5 Exercise 23 - Pattern Display
+    File Name: ConsoleApplication1.cpp
+    Programmer: Harrison Hudgins
+    Date: November 13, 2024
+    Requirements:
+    Write a program that displays pattern A and then pattern B
+*/
 
 #include <iostream>
 using namespace std;
